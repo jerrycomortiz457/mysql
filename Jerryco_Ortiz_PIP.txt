@@ -1,0 +1,25 @@
+1. pip install Django
+  -Django installed successfully
+
+2. pip list
+  -Displays a list of installed packages.
+
+3. pip install Django
+  -Displays: Requirement already satisfied: django in <directory>
+
+4. pip freeze
+  -Output installed packages in requirements format.
+
+5. pip freeze > requirements.txt
+  -File created at Desktop with filename, requirements.txt, containing the list of insalled packages and their versions.
+
+6. pip show Django
+  -Displays the descrpition about Django
+
+7. pip uninstall Django
+  -Displays files associated with Django, asked whethere to proceed in uninstallation or not. y/n.... 
+   If y then.. Successfully Uninstalled Django
+   If n then it cancels the process,
+
+8. pip search Flask
+  -Displays all packages related with Flask 
